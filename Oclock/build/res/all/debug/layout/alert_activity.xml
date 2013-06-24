@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="@color/white"
+            android:id="@+id/linearLayout">
+
+        <LinearLayout
+                android:layout_height="70dp"
+                android:layout_width="match_parent"
+                android:id="@+id/profile_categories"
+                android:showDividers="middle"
+                android:dividerPadding="8dp"
+                android:divider="?android:dividerHorizontal"
+                android:background="@drawable/button_red">
+
+            <ImageView
+                    android:layout_height="match_parent"
+                    style="?android:borderlessButtonStyle"
+                    android:scaleType="center"
+                    android:layout_width="0dp"
+                    android:padding="10dp"
+                    android:src="@drawable/ic_band_update_wht"
+                    android:contentDescription="@string/category_icon"
+                    android:layout_weight="2"/>
+
+            <LinearLayout
+                    android:layout_height="match_parent"
+                    android:layout_width="0dp"
+                    android:orientation="vertical"
+                    android:paddingLeft="14dp"
+                    android:layout_weight="8">
+
+                <TextView
+                        style="?android:listSeparatorTextViewStyle"
+                        android:textSize="18sp"
+                        android:layout_height="wrap_content"
+                        android:layout_width="match_parent"
+                        android:textColor="@color/profile_text_color"
+                        android:text="@string/panic"/>
+
+                <TextView
+                        style="@style/TextAppearanceSmall"
+                        android:layout_height="wrap_content"
+                        android:layout_width="match_parent"
+                        android:textColor="@color/profile_text_color_light"
+                        android:text="@string/panic_details"/>
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout
+                android:layout_height="70dp"
+                android:layout_width="match_parent"
+                android:id="@+id/profile_categories"
+                android:showDividers="middle"
+                android:dividerPadding="8dp"
+                android:divider="?android:dividerHorizontal"
+                android:background="@drawable/button_orange">
+
+            <ImageView
+                    android:layout_height="match_parent"
+                    style="?android:borderlessButtonStyle"
+                    android:scaleType="center"
+                    android:layout_width="0dp"
+                    android:padding="10dp"
+                    android:src="@drawable/ic_band_update_wht"
+                    android:contentDescription="@string/category_icon"
+                    android:layout_weight="2"/>
+
+            <LinearLayout
+                    android:layout_height="match_parent"
+                    android:layout_width="0dp"
+                    android:orientation="vertical"
+                    android:paddingLeft="14dp"
+                    android:layout_weight="8">
+
+                <TextView
+                        style="?android:listSeparatorTextViewStyle"
+                        android:textSize="18sp"
+                        android:layout_height="wrap_content"
+                        android:layout_width="match_parent"
+                        android:textColor="@color/profile_text_color"
+                        android:text="@string/high_risk_area"/>
+
+                <TextView
+                        style="@style/TextAppearanceSmall"
+                        android:layout_height="wrap_content"
+                        android:layout_width="match_parent"
+                        android:textColor="@color/profile_text_color_light"
+                        android:text="@string/panic_details"/>
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout
+                android:layout_height="70dp"
+                android:layout_width="match_parent"
+                android:id="@+id/profile_categories"
+                android:showDividers="middle"
+                android:dividerPadding="8dp"
+                android:divider="?android:dividerHorizontal"
+                android:background="@drawable/button_red">
+
+            <ImageView
+                    android:layout_height="match_parent"
+                    style="?android:borderlessButtonStyle"
+                    android:scaleType="center"
+                    android:layout_width="0dp"
+                    android:padding="10dp"
+                    android:src="@drawable/ic_band_update_wht"
+                    android:contentDescription="@string/category_icon"
+                    android:layout_weight="2"/>
+
+            <LinearLayout
+                    android:layout_height="match_parent"
+                    android:layout_width="0dp"
+                    android:orientation="vertical"
+                    android:paddingLeft="14dp"
+                    android:layout_weight="8">
+
+                <TextView
+                        style="?android:listSeparatorTextViewStyle"
+                        android:textSize="18sp"
+                        android:layout_height="wrap_content"
+                        android:layout_width="match_parent"
+                        android:textColor="@color/profile_text_color"
+                        android:text="@string/vital_signs"/>
+
+                <TextView
+                        style="@style/TextAppearanceSmall"
+                        android:layout_height="wrap_content"
+                        android:layout_width="match_parent"
+                        android:textColor="@color/profile_text_color_light"
+                        android:text="@string/panic_details"/>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

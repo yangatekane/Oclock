@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/home/yanga/Projects/OclockProject/Oclock/src/main/res" >
+            <file
+                name="ic_location_place_wht"
+                path="/home/yanga/Projects/OclockProject/Oclock/src/main/res/drawable-mdpi/ic_location_place_wht.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_location_place_bck"
+                path="/home/yanga/Projects/OclockProject/Oclock/src/main/res/drawable-mdpi/ic_location_place_bck.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_collections_sort_by_size_wht"
+                path="/home/yanga/Projects/OclockProject/Oclock/src/main/res/drawable-mdpi/ic_collections_sort_by_size_wht.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_collections_view_as_list_bck"
+                path="/home/yanga/Projects/OclockProject/Oclock/src/main/res/drawable-mdpi/ic_collections_view_as_list_bck.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_drawer"
+                path="/home/yanga/Projects/OclockProject/Oclock/src/main/res/drawable-mdpi/ic_drawer.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_content_email_bck"
+                path="/home/yanga/Projects/OclockProject/Oclock/src/main/res/drawable-mdpi/ic_content_email_bck.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="drawer_shadow"
+                path="/home/yanga/Projects/OclockProject/Oclock/src/main/res/drawable-mdpi/drawer_shadow.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_alerts_and_states_warning_bck"
+                path="/home/yanga/Projects/OclockProject/Oclock/src/main/res/drawable-mdpi/ic_alerts_and_states_warning_bck.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_content_email_wht"
+                path="/home/yanga/Projects/OclockProject/Oclock/src/main/res/drawable-mdpi/ic_content_email_wht.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_collections_view_as_list_wht"
+                path="/home/yanga/Projects/OclockProject/Oclock/src/main/res/drawable-mdpi/ic_collections_view_as_list_wht.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/home/yanga/Projects/OclockProject/Oclock/src/main/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_alerts_and_states_warning_wht"
+                path="/home/yanga/Projects/OclockProject/Oclock/src/main/res/drawable-mdpi/ic_alerts_and_states_warning_wht.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_collections_sort_by_size_bck"
+                path="/home/yanga/Projects/OclockProject/Oclock/src/main/res/drawable-mdpi/ic_collections_sort_by_size_bck.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_location_place_wht"
+                path="/home/yanga/Projects/OclockProject/Oclock/src/main/res/drawable-xhdpi/ic_location_place_wht.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_location_place_bck"
+                path="/home/yanga/Projects/OclockProject/Oclock/src/main/res/drawable-xhdpi/ic_location_place_bck.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_collections_sort_by_size_wht"
+                path="/home/yanga/Projects/OclockProject/Oclock/src/main/res/drawable-xhdpi/ic_collections_sort_by_size_wht.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_collections_view_as_list_bck"
+                path="/home/yanga/Projects/OclockProject/Oclock/src/main/res/drawable-xhdpi/ic_collections_view_as_list_bck.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_drawer"
+                path="/home/yanga/Projects/OclockProject/Oclock/src/main/res/drawable-xhdpi/ic_drawer.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_content_email_bck"
+                path="/home/yanga/Projects/OclockProject/Oclock/src/main/res/drawable-xhdpi/ic_content_email_bck.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="drawer_shadow"
+                path="/home/yanga/Projects/OclockProject/Oclock/src/main/res/drawable-xhdpi/drawer_shadow.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_alerts_and_states_warning_bck"
+                path="/home/yanga/Projects/OclockProject/Oclock/src/main/res/drawable-xhdpi/ic_alerts_and_states_warning_bck.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_content_email_wht"
+                path="/home/yanga/Projects/OclockProject/Oclock/src/main/res/drawable-xhdpi/ic_content_email_wht.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_collections_view_as_list_wht"
+                path="/home/yanga/Projects/OclockProject/Oclock/src/main/res/drawable-xhdpi/ic_collections_view_as_list_wht.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/home/yanga/Projects/OclockProject/Oclock/src/main/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_alerts_and_states_warning_wht"
+                path="/home/yanga/Projects/OclockProject/Oclock/src/main/res/drawable-xhdpi/ic_alerts_and_states_warning_wht.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_collections_sort_by_size_bck"
+                path="/home/yanga/Projects/OclockProject/Oclock/src/main/res/drawable-xhdpi/ic_collections_sort_by_size_bck.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                path="/home/yanga/Projects/OclockProject/Oclock/src/main/res/values-v11/styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="/home/yanga/Projects/OclockProject/Oclock/src/main/res/values/themes.xml"
+                qualifiers="" >
+
+                <style
+                    name="OclockTheme"
+                    parent="@android:style/Theme.Holo" >
+                </style>
+            </file>
+            <file
+                path="/home/yanga/Projects/OclockProject/Oclock/src/main/res/values/styles.xml"
+                qualifiers="" >
+
+                <style name="TextAppearanceMedium" >
+                    <item name="android:textSize">
+18sp
+                    </item>
+                </style>
+
+                <style name="TextAppearanceSmall" >
+                    <item name="android:textSize">
+14sp
+                    </item>
+                </style>
+            </file>
+            <file
+                path="/home/yanga/Projects/OclockProject/Oclock/src/main/res/values/dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="/home/yanga/Projects/OclockProject/Oclock/src/main/res/values/colors.xml"
+                qualifiers="" >
+                <color name="blue" >#17affd
+                </color>
+                <color name="button_orange_disabled" >#e8843b
+                </color>
+                <color name="white" >#FFFFFF
+                </color>
+                <color name="black" >#000000
+                </color>
+                <color name="profile_text_color" >#464646
+                </color>
+                <color name="profile_text_color_light" >#5c5c5c
+                </color>
+                <color name="grey_oclock" >#262a33
+                </color>
+            </file>
+            <file
+                path="/home/yanga/Projects/OclockProject/Oclock/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="panic_details" >The rubber band user has fired the panic signal, please make means to help
+                </string>
+                <string name="action_settings" >Settings
+                </string>
+                <string name="vital_signs" >Vital Signs
+                </string>
+                <string name="notification_icon" >notification icon
+                </string>
+                <string name="retailer_icon" >retailer icon
+                </string>
+                <string name="profile_retailers_description" >Detected sickness hazards by the rubber band
+                </string>
+                <string name="category_icon" >category icon
+                </string>
+                <string name="profile_categories_description" >Optimum directions to places of safety
+                </string>
+                <string name="drawer_close" >Close navigation drawer
+                </string>
+                <string name="notification_label_description" >Send notifications to the nearest point of safety 
+                </string>
+                <string name="user_icon" >friend icon
+                </string>
+                <string name="panic" >Panic
+                </string>
+                <string name="high_risk_area" >Risk Area
+                </string>
+                <string name="user_label" >Notify Friend
+                </string>
+                <string name="wireless_and_network" >Wireless and network
+                </string>
+                <string name="user_label_description" >Notify friend about the emergency health situation
+                </string>
+                <string name="profile_categories" >Safety
+                </string>
+                <string name="app_name" >Oclock
+                </string>
+                <string name="profile_retailers" >Hazards
+                </string>
+                <string name="notification_label" >Notifications
+                </string>
+                <string name="network_required" >An active internet connection is required to use this feature, your network is
+        currently connected, do you wish to open \"Wireless and network\"
+                </string>
+                <string name="drawer_open" >Open navigation drawer
+                </string>
+            </file>
+            <file
+                name="basic_diagnostic_dto"
+                path="/home/yanga/Projects/OclockProject/Oclock/src/main/res/layout/basic_diagnostic_dto.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="map_activity"
+                path="/home/yanga/Projects/OclockProject/Oclock/src/main/res/layout/map_activity.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="home_activity"
+                path="/home/yanga/Projects/OclockProject/Oclock/src/main/res/layout/home_activity.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="alert_activity"
+                path="/home/yanga/Projects/OclockProject/Oclock/src/main/res/layout/alert_activity.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="drawer_list_item"
+                path="/home/yanga/Projects/OclockProject/Oclock/src/main/res/layout/drawer_list_item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="action_band_share_diagnostics"
+                path="/home/yanga/Projects/OclockProject/Oclock/src/main/res/drawable/action_band_share_diagnostics.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="button_red"
+                path="/home/yanga/Projects/OclockProject/Oclock/src/main/res/drawable/button_red.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_safety_wht"
+                path="/home/yanga/Projects/OclockProject/Oclock/src/main/res/drawable/ic_safety_wht.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="button_purple"
+                path="/home/yanga/Projects/OclockProject/Oclock/src/main/res/drawable/button_purple.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_hazard_wht"
+                path="/home/yanga/Projects/OclockProject/Oclock/src/main/res/drawable/ic_hazard_wht.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_notifications_wht"
+                path="/home/yanga/Projects/OclockProject/Oclock/src/main/res/drawable/ic_notifications_wht.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_band_update_wht"
+                path="/home/yanga/Projects/OclockProject/Oclock/src/main/res/drawable/ic_band_update_wht.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="action_band_latest_diagnostics"
+                path="/home/yanga/Projects/OclockProject/Oclock/src/main/res/drawable/action_band_latest_diagnostics.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="action_band_location"
+                path="/home/yanga/Projects/OclockProject/Oclock/src/main/res/drawable/action_band_location.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="action_band_diagnostic_reports"
+                path="/home/yanga/Projects/OclockProject/Oclock/src/main/res/drawable/action_band_diagnostic_reports.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="button_blue"
+                path="/home/yanga/Projects/OclockProject/Oclock/src/main/res/drawable/button_blue.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_friend_wht"
+                path="/home/yanga/Projects/OclockProject/Oclock/src/main/res/drawable/ic_friend_wht.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="action_band_alerts"
+                path="/home/yanga/Projects/OclockProject/Oclock/src/main/res/drawable/action_band_alerts.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_pic"
+                path="/home/yanga/Projects/OclockProject/Oclock/src/main/res/drawable/ic_pic.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="button_orange"
+                path="/home/yanga/Projects/OclockProject/Oclock/src/main/res/drawable/button_orange.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/home/yanga/Projects/OclockProject/Oclock/src/main/res/drawable-xxhdpi/ic_launcher.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                path="/home/yanga/Projects/OclockProject/Oclock/src/main/res/values-sw720dp-land/dimens.xml"
+                qualifiers="sw720dp-land" >
+                <dimen name="activity_horizontal_margin" >128dp
+                </dimen>
+            </file>
+            <file
+                path="/home/yanga/Projects/OclockProject/Oclock/src/main/res/values-sw600dp/dimens.xml"
+                qualifiers="sw600dp" />
+            <file
+                name="ic_location_place_wht"
+                path="/home/yanga/Projects/OclockProject/Oclock/src/main/res/drawable-hdpi/ic_location_place_wht.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_location_place_bck"
+                path="/home/yanga/Projects/OclockProject/Oclock/src/main/res/drawable-hdpi/ic_location_place_bck.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_collections_sort_by_size_wht"
+                path="/home/yanga/Projects/OclockProject/Oclock/src/main/res/drawable-hdpi/ic_collections_sort_by_size_wht.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_collections_view_as_list_bck"
+                path="/home/yanga/Projects/OclockProject/Oclock/src/main/res/drawable-hdpi/ic_collections_view_as_list_bck.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_drawer"
+                path="/home/yanga/Projects/OclockProject/Oclock/src/main/res/drawable-hdpi/ic_drawer.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_content_email_bck"
+                path="/home/yanga/Projects/OclockProject/Oclock/src/main/res/drawable-hdpi/ic_content_email_bck.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="drawer_shadow"
+                path="/home/yanga/Projects/OclockProject/Oclock/src/main/res/drawable-hdpi/drawer_shadow.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_alerts_and_states_warning_bck"
+                path="/home/yanga/Projects/OclockProject/Oclock/src/main/res/drawable-hdpi/ic_alerts_and_states_warning_bck.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_content_email_wht"
+                path="/home/yanga/Projects/OclockProject/Oclock/src/main/res/drawable-hdpi/ic_content_email_wht.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_collections_view_as_list_wht"
+                path="/home/yanga/Projects/OclockProject/Oclock/src/main/res/drawable-hdpi/ic_collections_view_as_list_wht.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/home/yanga/Projects/OclockProject/Oclock/src/main/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_alerts_and_states_warning_wht"
+                path="/home/yanga/Projects/OclockProject/Oclock/src/main/res/drawable-hdpi/ic_alerts_and_states_warning_wht.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_collections_sort_by_size_bck"
+                path="/home/yanga/Projects/OclockProject/Oclock/src/main/res/drawable-hdpi/ic_collections_sort_by_size_bck.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                path="/home/yanga/Projects/OclockProject/Oclock/src/main/res/values-v14/styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- API 14 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                name="home"
+                path="/home/yanga/Projects/OclockProject/Oclock/src/main/res/menu/home.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="network_required"
+                path="/home/yanga/Projects/OclockProject/Oclock/src/main/res/layout/network_required.xml"
+                qualifiers=""
+                type="layout" />
+        </source>
+        <source path="/home/yanga/Projects/OclockProject/Oclock/build/res/rs/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/home/yanga/Projects/OclockProject/Oclock/src/debug/res" />
+    </dataSet>
+
+</merger>
