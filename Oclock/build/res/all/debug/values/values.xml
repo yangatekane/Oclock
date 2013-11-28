@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#000000</color>
+    <color name="blue">#17affd</color>
+    <color name="button_orange_disabled">#e8843b</color>
+    <color name="grey_oclock">#262a33</color>
+    <color name="profile_text_color">#464646</color>
+    <color name="profile_text_color_light">#5c5c5c</color>
+    <color name="white">#FFFFFF</color>
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Oclock</string>
+    <string name="category_icon">category icon</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="high_risk_area">Risk Area</string>
+    <string name="network_required">An active internet connection is required to use this feature, your network is
+        currently connected, do you wish to open \"Wireless and network\"</string>
+    <string name="notification_icon">notification icon</string>
+    <string name="notification_label">Notifications</string>
+    <string name="notification_label_description">Send notifications to the nearest point of safety </string>
+    <string name="panic">Panic</string>
+    <string name="panic_details">The rubber band user has fired the panic signal, please make means to help</string>
+    <string name="profile_categories">Safety</string>
+    <string name="profile_categories_description">Optimum directions to places of safety</string>
+    <string name="profile_retailers">Hazards</string>
+    <string name="profile_retailers_description">Detected sickness hazards by the rubber band</string>
+    <string name="retailer_icon">retailer icon</string>
+    <string name="user_icon">friend icon</string>
+    <string name="user_label">Notify Friend</string>
+    <string name="user_label_description">Notify friend about the emergency health situation</string>
+    <string name="vital_signs">Vital Signs</string>
+    <string name="wireless_and_network">Wireless and network</string>
+
+    <style name="OclockTheme" parent="@android:style/Theme.Holo"></style>
+
+    <style name="TextAppearanceMedium">
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="TextAppearanceSmall">
+        <item name="android:textSize">14sp</item>
+    </style>
+
+</resources>

@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android" name="Android">
+      <configuration />
+=======
 <module external.system.id="GRADLE" type="JAVA_MODULE" version="4">
   <component name="FacetManager">
     <facet type="android" name="Android">
@@ -17,11 +23,20 @@
         <option name="PROJECT_ABSOLUTE_PATH" value="$MODULE_DIR$/.." />
         <option name="GRADLE_HOME_DIR_PATH" />
       </configuration>
+>>>>>>> 95ba5b3a126022c0ea35dcb19e3abc54fcb66166
     </facet>
   </component>
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
+<<<<<<< HEAD
+      <sourceFolder url="file://$MODULE_DIR$/gen" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android 4.2.2" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="libs" level="project" />
+=======
       <sourceFolder url="file://$MODULE_DIR$/build/source/r/debug" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/build/source/aidl/debug" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/build/source/rs/debug" isTestSource="false" />
@@ -70,6 +85,7 @@
     <orderEntry type="library" name="android-support-v4" level="project" />
     <orderEntry type="library" name="google-play-services" level="project" />
     <orderEntry type="module" module-name="google-play-services_lib" />
+>>>>>>> 95ba5b3a126022c0ea35dcb19e3abc54fcb66166
   </component>
 </module>
 
